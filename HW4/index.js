@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'The black eagle was flapping its great wings above them, featheredfowl of a thousand varieties were twittering on the branches of thetrees.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'It is the folly of a boy,intoxicated by the color of a girl's cheek and the curl of her hair.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Ben didnot read steadily through as Mary did.'      
 };
 
 function status(statusText) {
