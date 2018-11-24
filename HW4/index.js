@@ -1,4 +1,5 @@
 
+
 const HOSTED_URLS = {
   model:
       'model_js/model.json',
@@ -10,7 +11,7 @@ const examples = {
   'example1':
       'The black eagle was flapping its great wings above them, featheredfowl of a thousand varieties were twittering on the branches of thetrees.',
   'example2':
-      'It is the folly of a boy,intoxicated by the color of a girl's cheek and the curl of her hair.',
+      'It is the folly of a boy,intoxicated by the color of a girls cheek and the curl of her hair.',
   'example3':
       'Ben didnot read steadily through as Mary did.'      
 };
