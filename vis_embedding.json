@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Sentences Embedding",
+      "tensorShape": [
+        10445,
+        50
+      ],
+      "https://gist.github.com/llc8888/25c11bfb904168b57518170856d112f4/raw/d1f033d3db3b6f66ca4fca0e6f8bf4ca4be7f1d8/embed.tsv",
+      "https://gist.github.com/llc8888/25c11bfb904168b57518170856d112f4/raw/d1f033d3db3b6f66ca4fca0e6f8bf4ca4be7f1d8/senss.tsv"
+    }
+  ]
+}
+
+
+
+
